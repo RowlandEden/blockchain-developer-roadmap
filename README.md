@@ -3,7 +3,7 @@
     <img src="./Assets/blockchain.png" alt="Blockchain" width="128" height="128">
   </a>
   <h2 align="center">Blockend Developer Roadmap</h2>
-  <p align="center">Roadmap to becoming a Blockend Developer in 2022</p>
+  <p align="center">Roadmap to becoming a Blockend Developer in 2024</p>
   <p align="center">
       <a href="https://twitter.com/intent/tweet?text=https%3A%2F%2Fgithub.com%2FEnvoy-VC%2Fblockend-developer-roadmap" target="_blank"><img src="https://img.shields.io/badge/tweet-blue.svg?logo=twitter&logoColor=white" style="display: inherit;"/></a>
       <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/Envoy-VC/blockend-developer-roadmap&source=" target="_blank"><img src="https://img.shields.io/badge/post-blue.svg?logo=linkedin&logoColor=white" style="display: inherit;"/></a>
