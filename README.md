@@ -326,7 +326,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
 ## Recommended Books
 
 - Bitcoin White Paper: A Peer-to-Peer Electronic Cash System - Satoshi Nakamoto
-- [Mastering Ethereum: Building Smart Contracts and DApps - Andreas Antonopoulos & Dr. Gavin Wood](https://github.com/ethereumbook/ethereumbook)
+- Mastering Ethereum: Building Smart Contracts and DApps - Andreas Antonopoulos & Dr. Gavin Wood
 - Mastering Ethereum: Implement Advanced Blockchain Applications - Merunas Grincalaitis
 - Mastering Bitcoin: Programming the Open Blockchain - Andreas M. Antonopoulos
 - The Infinite Machine: How an Army of Crypto-hackers Is Building the Next Internet with Ethereum - Camila Russo
