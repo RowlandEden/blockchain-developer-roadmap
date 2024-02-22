@@ -21,7 +21,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
 
 # Roadmap
 
-![Roadmap](./assets/Blockend%20Developer%20Roadmap.svg)
+![Roadmap](./Assets/Blockend%20Developer%20Roadmap.svg)
 
 <br>
 
